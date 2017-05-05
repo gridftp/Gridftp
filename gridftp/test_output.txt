@@ -1,5 +1,3 @@
-
-
 [INFO] Scanning for projects...
 [INFO] ------------------------------------------------------------------------
 [INFO] Building gridftp
